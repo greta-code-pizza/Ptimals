@@ -11,15 +11,16 @@ Vous aurez aussi besoin de stocker une image sur imgur par exemple.
 
 Liste des animaux à implémenter :
 
-- Chien
-- Chat
-- Mouette
-- Goelan
-- Ecureils
-- Cormoran (rare)
-- Pigeons
-- Escargot
-- Tortue
+
+| Animaux | Dominance (10-80 | 100) | Stress (10-70 | 100) | Vit (2-100) | Freezer | Attaque ||:----------:|:-------:|:------:|:----------:|:----------:| 
+| Chat | 40-60 | 30-40 | 25-35 | Ronronnement | Griffure profonde |
+| Chien | 30-65 | 20-30 | 25-40 | Aboiement  | Morsure enragée |
+| Escargot | 10 | 40 | 2 | Bave gluante | Bave toxique |
+| Mouette | 22 | 50 | 35-45 |  | Coup de bec |
+| Goelan | 45 | 40 | 35-45 |  | Assault |
+| Cormoran | ... | ... | ... |  |  |
+| Ecureil | ... | ... | ... |  |  |
+| Pigeon | ... | ... | ... |  |  |
 
 
 ### Composants à implémenter
